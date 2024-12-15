@@ -51,7 +51,7 @@ The **multimodal LLM** takes the following inputs:
 
 ## ⚙️ **Tech Stack**
 - **Hardware**: Raspberry Pi 4, Pi NoIR Camera, DHT11 Sensors  
-- **Software**: Python, OpenCV, TensorFlow/PyTorch  
+- **Software**: Python, OpenCV  
 - **Dashboard**: Web Interface (HTML/CSS/JS)  
 - **AI**: Multimodal LLM for recommendations  
 - **APIs**: Weather API Integration  
